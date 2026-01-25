@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm **Toasha**
 
-<!--
-**Toasha/Toasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iOS Developer (Swift / SwiftUI) — University Student in Japan**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* Third-year university student in Japan
+* Programming experience: **less than 2 years**
+* I got inspired by engineers at my first tech conference and started studying iOS development seriously
+* Currently focusing on **Swift** and **SwiftUI**
+
+---
+
+## 🛠 Tech Stack
+
+* **Swift / SwiftUI**
+* **Git / GitHub**
+* **Figma**
+* **Adobe Premiere Pro / After Effects**
+* **Studio One** (BGM / sound effects production)
+* **Competitive Programming & Algorithms** (problem-solving, data structures, optimization)
+
+---
+
+## 📚 What I'm Learning Now
+
+* **Swift** 
+* **iOS Architecture** 
+* **UI / UX design**
+
+---
+
+## ✉️ Contact
+
+If you'd like to reach out, feel free to DM me on **X (Twitter)**.
