@@ -1,12 +1,11 @@
 # 👋 Hi, I'm **Toasha**
+**iOS Developer (Swift / SwiftUI) — University Student in Japan**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Toasha/Toasha/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Toasha/Toasha/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Toasha/Toasha/output/github-snake.svg" />
 </picture>
-
-**iOS Developer (Swift / SwiftUI) — University Student in Japan**
 
 ---
 
