@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠  Skill Stack
 
 * **Swift / SwiftUI**
 * **Git / GitHub**
