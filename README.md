@@ -1,5 +1,11 @@
 # 👋 Hi, I'm **Toasha**
 **iOS Developer (Swift / SwiftUI) — University Student in Japan**
+<br>
+
+
+❤️I look up to catnose
+
+
 ---
 
 ## 🧑‍💻 About Me
