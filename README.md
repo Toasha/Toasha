@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-* Third-year university student in Japan
+* 4th year university student in Japan
 * Programming experience: **less than 2 years**
 * I got inspired by engineers at my first tech conference and started studying iOS development seriously
 * Currently focusing on **Swift** and **SwiftUI**
