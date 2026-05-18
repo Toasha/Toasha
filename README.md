@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-* 4th year university student in Japan
+* senior at university
 * Programming experience: **less than 2 years**
 * I got inspired by engineers at my first tech conference and started studying iOS development seriously
 * Currently focusing on **Swift** and **SwiftUI**
@@ -22,6 +22,7 @@
 * **Swift / SwiftUI**
 * **Git / GitHub**
 * **Figma**
+* **Blender**
 * **Adobe Premiere Pro / After Effects**
 * **Studio One** (BGM / sound effects production)
 * **Competitive Programming & Algorithms** (problem-solving, data structures, optimization)
