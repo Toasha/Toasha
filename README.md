@@ -22,6 +22,7 @@
 * **Swift / SwiftUI**
 * **Git / GitHub**
 * **Figma**
+* **GAS**
 * **Blender**
 * **Adobe Premiere Pro / After Effects**
 * **Studio One** (BGM / sound effects production)
@@ -32,7 +33,8 @@
 ## 📚 What I'm Learning Now
 
 * **Swift** 
-* **iOS Architecture** 
+* **iOS Architecture**
+* **HTML/CSS**
 * **UI / UX design**
 
 ---
