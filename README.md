@@ -25,8 +25,7 @@
 * **GAS**
 * **Blender**
 * **Adobe Premiere Pro / After Effects**
-* **Studio One** (BGM / sound effects production)
-* **Competitive Programming & Algorithms** (problem-solving, data structures, optimization)
+* **Studio One**
 
 ---
 
